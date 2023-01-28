@@ -1,6 +1,6 @@
 The goal is to create a telephone package using some basic knowledge of Object Oriented Programming and Design patterns. 
 
-Here is a step by step breakdown of my code below:
+Here is a step by step breakdown below:
 1. A Telephone class was created with two properties and three methods were exposed:
 
 => Property one: dialer - For adding numbers to the dialer.
