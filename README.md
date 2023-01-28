@@ -17,7 +17,7 @@ Here is a step by step breakdown of my code below:
 => Property one: observer - For creating a new observer and taking their details 
 => Method one: update - To be called by the Telephone class to notify the observers.
 
-4. The Telephone class was instantiated once and we used a Singleton pattern to prevent it from having more than one instance.
+4. The Telephone class was instantiated once and with a Singleton pattern was prevented from having more than one instance.
 
 5. Two new observers were created by making two instances of the observer class.
 
